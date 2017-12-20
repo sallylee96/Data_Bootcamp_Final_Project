@@ -16,4 +16,4 @@ the project and course.
 
 Project Description
 
-Over recent ten to fifteen years, there has been rising tension between North Korea and the United States. As North Korea continues to test its missiles, it triggers a wave of falling stock prices in the global economy, especially in the South Korean economy. In this project, we will examine how the events performed by North Korea, including North Korea missile tests and nuclear weapon threats, affect the South Korean and its adjacent financial markets over the last 14 years (2004-2017). 
+Over recent fifteen years, there has been rising tension between North Korea and the United States. As North Korea continues to test its missiles, it triggers a wave of falling stock prices in the global economy, especially in the South Korean economy. In this project, we will examine how the events performed by North Korea, including North Korea missile tests and nuclear weapon threats, affect the South Korean and its adjacent financial markets over the last 14 years (2004-2017). 
